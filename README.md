@@ -1,5 +1,6 @@
 <h1 align="center"> How a Freelancer Clone Can Help You Compete in the Online Gig Economy </h1>
 
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“freelanceclone.png" src="https://github.com/sangvishtechnologies/freelance-clone/blob/main/images/Freelance-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>  
 
 Today, the online gig economy has expanded significantly, and more people and companies are have confidence on freelancers than before. Through such platforms as Freelancer.com the nature of interaction between freelancers and employers has changed the manner in which individuals engage talented workers across various parts of the world. In case you are interested in entering this rapidly growing field, creating your own site with the help of Freelancer clone script will help you succeed. 
 
@@ -45,6 +46,8 @@ By using it, increasing the number of website users from around the world can be
 **6. Ratings and Reviews**
 
 Enabling people to rate and review freelance workers and clients assists in ensuring quality over freelancers on your platform. It also helps users make a proper decision to make their experience better.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“freelanceclone.png" src="https://github.com/sangvishtechnologies/freelance-clone/blob/main/images/freelance-clone-script.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>  
 
 ## Benefits of Launching a Freelancer Clone Website
 [Freelancer clone app](https://sangvish.com/freelancer-clone/) is quite rewarding as it enables market entrants to capitalize on the expanding online gig economy to create a successful business. Here are some key benefits:
