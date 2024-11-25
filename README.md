@@ -1,18 +1,15 @@
 <h1 align="center"> How a Freelancer Clone Can Help You Compete in the Online Gig Economy </h1>
+
 <h3 align="left">Connect with me:</h3>
 
-
 <p align="left">
-<a href="https://twitter.com/sangvishtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sangvishtech" height="30" width="40" /></a>
-<a href="https://fb.com/sangvishtechnologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sangvishtechnologies" height="30" width="40" /></a>
-<a href="https://instagram.com/sangvishtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sangvishtech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sangvish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sangvish" height="30" width="40" /></a>
-<a href="https://codepen.io/sangvish-support" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sangvish-support" height="30" width="40" /></a>
-<a href="https://dev.to/sangvish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sangvish" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/23482785/sangvish-technologies" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/23482785/sangvish-technologies" height="30" width="40" /></a>
-<a href="https://hashnode.com/@sangvish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sangvish" height="30" width="40" /></a> </p>
-
-
+<a href="https://twitter.com/sangvishtech" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/twitter.png" alt="sangvishtech" /></a>
+<a href="https://fb.com/sangvishtechnologies" target="blank"><img align="center" 
+src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/facebook.png" alt="sangvishtechnologies" /></a>
+<a href="https://www.linkedin.com/company/sangvish-technologies/" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/linkedin.png" alt="sangvish" /></a>
+<a href="https://www.youtube.com/c/sangvish" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/youtube.png" alt="sangvish" /></a>
+<a href="https://github.com/sangvishtechnologies" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/github.png" alt="sangvishtechnologies" /></a>
+<a href="https://instagram.com/sangvishtech" target="blank"><img align="center" src="https://github.com/Simonleo159/uber-for-handyman-app-/blob/main/icons/instagram.png" alt="sangvishtech" /></a>
 
 
 <div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“freelanceclone.png" src="https://github.com/sangvishtechnologies/freelance-clone/blob/main/images/Freelance-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>  
